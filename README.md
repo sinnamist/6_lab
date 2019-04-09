@@ -18,5 +18,5 @@ _You **can** combine them_
   * Item 2a
   * Item 2b
   
-![GitHub Logo](/images/logo.png)
+![GitHub Logo](picture.png)
 Format: ![Alt Text](https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)
